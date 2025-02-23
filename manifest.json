@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-tools-plugin",
-	"name": "Obsidian Tools Plugin",
+	"id": "obsidian-tools",
+	"name": "Obsidian Tools",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Obsidian Plugin for obsidian-tools (https://github.com/antfie/obsidian-tools)",
